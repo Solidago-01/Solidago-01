@@ -15,7 +15,7 @@ I create things that are **strange**, **beautiful**, and **memorable** (」°ロ
 
 ---
 
-### 🛠 **Frameworks, Libraries, and Tools **  
+### 🛠 **Frameworks, Libraries, and Tools**  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp; 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) &nbsp; 

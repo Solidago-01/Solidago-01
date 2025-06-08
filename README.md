@@ -1,6 +1,6 @@
 I'm **L Autumn Gnadinger** (but you can just call me **L**!)
 
-Former art professor turned designer and front-end developer working in Philadelphia.  
+Former art professor turned designer and developer working in Philadelphia.  
 I create things that are **strange**, **beautiful**, and **memorable** (」°ロ°)」
 
 ---
